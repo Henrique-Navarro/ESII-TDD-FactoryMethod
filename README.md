@@ -28,6 +28,10 @@ Foram desenvolvidos testes unitários utilizando JUnit e Mockito para testar cad
 
 A aplicação utiliza o Spring Boot Test Framework para testes de integração, garantindo que todos os componentes estejam funcionando corretamente em conjunto.
 
+### Testes no Postman
+
+O arquivo `LojaAquario.postman_collection.json` contém uma coleção de requisições prontas para importar no Postman. Este arquivo pode ser utilizado para testar as rotas da aplicação de maneira simplificada. Basta importar a coleção no Postman e executar as requisições para interagir com as diferentes funcionalidades da loja de peixes.
+
 ## Execução do Projeto
 
 Para executar o projeto localmente, siga as etapas abaixo:
