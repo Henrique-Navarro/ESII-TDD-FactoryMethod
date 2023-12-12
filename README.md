@@ -32,14 +32,7 @@ A aplicação utiliza o Spring Boot Test Framework para testes de integração, 
 
 Para executar o projeto localmente, siga as etapas abaixo:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
-3. Execute a aplicação: `mvn spring-boot:run`
+1. Clone o repositório: `git clone https://github.com/Henrique-Navarro/ESII-TDD-FactoryMethod/edit/main/README.md.git`
+2. Execute a aplicação no diretório raiz: `mvn spring-boot:run`
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou contribuir com novas funcionalidades através de pull requests.
-
-## Autor
-
-[Seu Nome] - [Seu Email]
+O projeto estará rodando na porta 8080.
